@@ -38,7 +38,7 @@ TCGA-D9-A6EA-06,keratin
 TCGA-D9-A6EC-06,keratin
 TCGA-D9-A6EG-06,keratin
 TCGA-DA-A95V-06,immune
-TCGA-DA-A95W-06,immune
+TCGA-DA-A95W-06,keratin
 TCGA-DA-A95X-06,immune
 TCGA-DA-A95Y-06,keratin
 TCGA-DA-A95Z-06,keratin
@@ -102,10 +102,10 @@ TCGA-RP-A695-06,keratin
 TCGA-RP-A6K9-06,immune
 TCGA-W3-A824-06,immune
 TCGA-W3-A825-06,immune
-TCGA-W3-A828-06,MITF-low
+TCGA-W3-A828-06,immune
 TCGA-W3-AA1O-06,keratin
 TCGA-W3-AA1Q-06,immune
-TCGA-W3-AA1R-06,immune
+TCGA-W3-AA1R-06,keratin
 TCGA-W3-AA1V-06,immune
 TCGA-W3-AA1W-06,immune
 TCGA-W3-AA21-06,keratin
@@ -132,7 +132,7 @@ TCGA-XV-A9W5-01,keratin
 TCGA-XV-AAZV-01,keratin
 TCGA-XV-AAZW-01,keratin
 TCGA-XV-AAZY-01,immune
-TCGA-XV-AB01-06,keratin
+TCGA-XV-AB01-06,immune
 TCGA-YD-A89C-06,keratin
 TCGA-YD-A9TA-06,immune
 TCGA-YD-A9TB-06,immune
@@ -140,5 +140,5 @@ TCGA-YG-AA3N-01,keratin
 TCGA-YG-AA3O-06,immune
 TCGA-YG-AA3P-06,keratin
 TCGA-Z2-A8RT-06,immune
-TCGA-Z2-AA3S-06,immune
+TCGA-Z2-AA3S-06,keratin
 TCGA-Z2-AA3V-06,immune
