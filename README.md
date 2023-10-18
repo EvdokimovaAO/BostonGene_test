@@ -10,6 +10,7 @@ statsmodels v.0.13.5
 matplotlib v3.5.3      
 seaborn v0.12.2      
 plotly v5.17.0      
+dash v2.14.0   
 biopython v1.78            
 
 **Resources and References**   
